@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-03-26T18:19:42.665639Z",
+  "district": "grandledge",
+  "menu_type": "lunch",
+  "days_ahead": 28,
+  "schools": [
+    {
+      "slug": "beagle",
+      "name": "Beagle Middle School"
+    },
+    {
+      "slug": "delta-center",
+      "name": "Delta Center Elementary"
+    },
+    {
+      "slug": "grand-ledge-high-school",
+      "name": "Grand Ledge High School"
+    },
+    {
+      "slug": "hayes-middle-school",
+      "name": "Hayes Intermediate School"
+    },
+    {
+      "slug": "holbrook-elementary",
+      "name": "Holbrook Elementary"
+    },
+    {
+      "slug": "holbrook-early-childhood-center",
+      "name": "Neff Early Childhood Center"
+    },
+    {
+      "slug": "st-michael",
+      "name": "St. Michael's School"
+    },
+    {
+      "slug": "wacousta",
+      "name": "Wacousta Elementary"
+    },
+    {
+      "slug": "willow-ridge",
+      "name": "Willow Ridge Elementary"
+    }
+  ]
+}
