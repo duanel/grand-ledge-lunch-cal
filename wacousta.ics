@@ -6,85 +6,78 @@ METHOD:PUBLISH
 X-WR-CALNAME:Wacousta Elementary Lunch Menu
 X-WR-CALDESC:Lunch menus for Wacousta Elementary.
 BEGIN:VEVENT
-UID:wacousta-2026-04-16@grandledge
-DTSTAMP:20260416T204017Z
-DTSTART;VALUE=DATE:20260416
-SUMMARY:Blueberry Bash Waffles
-DESCRIPTION:Full menu:\nBlueberry Bash Waffles\nChicken Sausage Patty\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:wacousta-2026-04-17@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260417
 SUMMARY:Classic Cheeseburger in Bun
 DESCRIPTION:Full menu:\nClassic Cheeseburger in Bun\nFresh Caesar Salad\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Orange Wedges\nChilled Peaches\nFresh Whole Fruit\nTossed Salad\nSliced Cucumbers\nBaked Beans\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-04-20@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260420
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nSliced Fresh Apples\nPineapple Tidbits\nFresh Whole Fruit\nFresh Carrots\nSmile Potatoes\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-04-21@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260421
 SUMMARY:Personal Galaxy Cheese Pizza
 DESCRIPTION:Full menu:\nPersonal Galaxy Cheese Pizza\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nCinnamon Applesauce\nRaisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-04-22@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260422
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nWhole Grain Garlic Texas Toast\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-04-23@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260423
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nChicken Sausage Patty\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Whole Apple Gala\nPeach Cup\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-04-24@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260424
 SUMMARY:Classic Chicken Sandwich
 DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Orange Wedges\nChilled Peaches\nFresh Whole Fruit\nTossed Salad\nSliced Cucumbers\nBaked Beans\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-04-27@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260427
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Whole Fruit\nFresh Carrots\nSeasoned Corn\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-04-28@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260428
 SUMMARY:Mini Confetti Pancakes
 DESCRIPTION:Full menu:\nMini Confetti Pancakes\nChicken Sausage Patty\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nCinnamon Applesauce\nCherry Craisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-04-29@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260429
 SUMMARY:Tempura Style Chicken Nuggets
 DESCRIPTION:Full menu:\nTempura Style Chicken Nuggets\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-04-30@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260430
 SUMMARY:Ham & Cheese Croissant
 DESCRIPTION:Full menu:\nHam & Cheese Croissant\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-05-01@grandledge
-DTSTAMP:20260416T204017Z
+DTSTAMP:20260417T203703Z
 DTSTART;VALUE=DATE:20260501
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Orange Wedges\nChilled Peaches\nFresh Whole Fruit\nTossed Salad\nSliced Cucumbers\nBaked Beans\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
