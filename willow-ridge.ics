@@ -6,73 +6,73 @@ METHOD:PUBLISH
 X-WR-CALNAME:Willow Ridge Elementary Lunch Menu
 X-WR-CALDESC:Lunch menus for Willow Ridge Elementary.
 BEGIN:VEVENT
-UID:willow-ridge-2026-04-23@grandledge
-DTSTAMP:20260423T204406Z
-DTSTART;VALUE=DATE:20260423
-SUMMARY:Whole Grain French Toast Sticks
-DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nChicken Sausage Patty\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Whole Apple Gala\nPeach Cup\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:willow-ridge-2026-04-24@grandledge
-DTSTAMP:20260423T204406Z
+DTSTAMP:20260424T203807Z
 DTSTART;VALUE=DATE:20260424
 SUMMARY:Classic Chicken Sandwich
 DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Orange Wedges\nChilled Peaches\nFresh Whole Fruit\nTossed Salad\nSliced Cucumbers\nBaked Beans\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:willow-ridge-2026-04-27@grandledge
-DTSTAMP:20260423T204406Z
+DTSTAMP:20260424T203807Z
 DTSTART;VALUE=DATE:20260427
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Whole Fruit\nFresh Carrots\nSeasoned Corn\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:willow-ridge-2026-04-28@grandledge
-DTSTAMP:20260423T204406Z
+DTSTAMP:20260424T203807Z
 DTSTART;VALUE=DATE:20260428
 SUMMARY:Mini Confetti Pancakes
 DESCRIPTION:Full menu:\nMini Confetti Pancakes\nChicken Sausage Patty\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nCinnamon Applesauce\nCherry Craisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:willow-ridge-2026-04-29@grandledge
-DTSTAMP:20260423T204406Z
+DTSTAMP:20260424T203807Z
 DTSTART;VALUE=DATE:20260429
 SUMMARY:Tempura Style Chicken Nuggets
 DESCRIPTION:Full menu:\nTempura Style Chicken Nuggets\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:willow-ridge-2026-04-30@grandledge
-DTSTAMP:20260423T204406Z
+DTSTAMP:20260424T203807Z
 DTSTART;VALUE=DATE:20260430
 SUMMARY:Ham & Cheese Croissant
 DESCRIPTION:Full menu:\nHam & Cheese Croissant\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:willow-ridge-2026-05-01@grandledge
-DTSTAMP:20260423T204406Z
+DTSTAMP:20260424T203807Z
 DTSTART;VALUE=DATE:20260501
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Orange Wedges\nChilled Peaches\nFresh Whole Fruit\nTossed Salad\nSliced Cucumbers\nBaked Beans\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:willow-ridge-2026-05-04@grandledge
-DTSTAMP:20260423T204406Z
+DTSTAMP:20260424T203807Z
 DTSTART;VALUE=DATE:20260504
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Whole Fruit\nFresh Carrots\nSeasoned Corn\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:willow-ridge-2026-05-05@grandledge
-DTSTAMP:20260423T204406Z
+DTSTAMP:20260424T203807Z
 DTSTART;VALUE=DATE:20260505
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nCinnamon Applesauce\nRaisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:willow-ridge-2026-05-06@grandledge
-DTSTAMP:20260423T204406Z
+DTSTAMP:20260424T203807Z
 DTSTART;VALUE=DATE:20260506
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nChicken Sausage Patty\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:willow-ridge-2026-05-07@grandledge
+DTSTAMP:20260424T203807Z
+DTSTART;VALUE=DATE:20260507
+SUMMARY:Mini Turkey Corn Dogs
+DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 END:VCALENDAR
