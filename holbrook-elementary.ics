@@ -6,136 +6,136 @@ METHOD:PUBLISH
 X-WR-CALNAME:Holbrook Elementary Lunch Menu
 X-WR-CALDESC:Lunch menus for Holbrook Elementary.
 BEGIN:VEVENT
-UID:holbrook-elementary-2026-04-28@grandledge
-DTSTAMP:20260428T210032Z
-DTSTART;VALUE=DATE:20260428
-SUMMARY:Mini Confetti Pancakes
-DESCRIPTION:Full menu:\nMini Confetti Pancakes\nChicken Sausage Patty\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nCinnamon Applesauce\nCherry Craisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:holbrook-elementary-2026-04-29@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260429
 SUMMARY:Tempura Style Chicken Nuggets
 DESCRIPTION:Full menu:\nTempura Style Chicken Nuggets\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-04-30@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260430
 SUMMARY:Ham & Cheese Croissant
 DESCRIPTION:Full menu:\nHam & Cheese Croissant\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-01@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260501
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Orange Wedges\nChilled Peaches\nFresh Whole Fruit\nTossed Salad\nSliced Cucumbers\nBaked Beans\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-04@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260504
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Whole Fruit\nFresh Carrots\nSeasoned Corn\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-05@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260505
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nCinnamon Applesauce\nRaisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-06@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260506
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nChicken Sausage Patty\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-07@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260507
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-08@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260508
 SUMMARY:Soft Beef Whole Grain Taco
 DESCRIPTION:Full menu:\nSoft Beef Whole Grain Taco\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nFresh Orange Wedges\nChilled Peaches\nFresh Whole Fruit\nTossed Salad\nSliced Cucumbers\nVegetarian Refried Beans\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-11@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260511
 SUMMARY:Cheese Pizza Cruncher
 DESCRIPTION:Full menu:\nCheese Pizza Cruncher\nSoy Butter & Jelly with Cheez-Its and String Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Whole Fruit\nFresh Carrots\nSeasoned Corn\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-12@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260512
 SUMMARY:Breaded Chicken Drumstick
 DESCRIPTION:Full menu:\nBreaded Chicken Drumstick\nMini Whole Grain Biscuit\nSoy Butter & Jelly with Cheez-Its and String Cheese\nCinnamon Applesauce\nCherry Craisins\nFresh Whole Fruit\nFresh Broccoli Florets\nMashed Potatoes\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-13@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260513
 SUMMARY:Toasted Cheese Sandwich
 DESCRIPTION:Full menu:\nToasted Cheese Sandwich\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-14@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260514
 SUMMARY:Blueberry Bash Waffles
 DESCRIPTION:Full menu:\nBlueberry Bash Waffles\nChicken Sausage Patty\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-15@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260515
 SUMMARY:Classic Cheeseburger in Bun
 DESCRIPTION:Full menu:\nClassic Cheeseburger in Bun\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Orange Wedges\nChilled Peaches\nFresh Whole Fruit\nTossed Salad\nSliced Cucumbers\nBaked Beans\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-18@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260518
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nSliced Fresh Apples\nPineapple Tidbits\nFresh Whole Fruit\nFresh Carrots\nSmile Potatoes\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-19@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260519
 SUMMARY:Personal Galaxy Cheese Pizza
 DESCRIPTION:Full menu:\nPersonal Galaxy Cheese Pizza\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nCinnamon Applesauce\nRaisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-20@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260520
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nWhole Grain Garlic Texas Toast\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-21@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260521
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nChicken Sausage Patty\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:holbrook-elementary-2026-05-26@grandledge
-DTSTAMP:20260428T210032Z
+DTSTAMP:20260429T205443Z
 DTSTART;VALUE=DATE:20260526
 SUMMARY:Mini Confetti Pancakes
 DESCRIPTION:Full menu:\nMini Confetti Pancakes\nChicken Sausage Patty\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nCinnamon Applesauce\nCherry Craisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:holbrook-elementary-2026-05-27@grandledge
+DTSTAMP:20260429T205443Z
+DTSTART;VALUE=DATE:20260527
+SUMMARY:Tempura Style Chicken Nuggets
+DESCRIPTION:Full menu:\nTempura Style Chicken Nuggets\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 END:VCALENDAR
