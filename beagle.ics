@@ -6,136 +6,136 @@ METHOD:PUBLISH
 X-WR-CALNAME:Beagle Middle School Lunch Menu
 X-WR-CALDESC:Lunch menus for Beagle Middle School.
 BEGIN:VEVENT
-UID:beagle-2026-04-29@grandledge
-DTSTAMP:20260429T205431Z
-DTSTART;VALUE=DATE:20260429
-SUMMARY:Tangerine Chicken
-DESCRIPTION:Full menu:\nTangerine Chicken\nVegetable Fried Rice\nSesame Soy Roasted Carrots\nFortune Cookies\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nMini Chicken Corn Dogs\nFrench Fries\nSpicy Chicken Sandwich\nImpossible Burger\nCheese Pizza Cruncher\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
-END:VEVENT
-BEGIN:VEVENT
 UID:beagle-2026-04-30@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260430
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nCheddar Cheese Omelet\nHash Brown Patty\nBreakfast Syrup\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Ranch Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-01@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260501
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nCreamy Cheddar Cheese Sauce\nRefried Beans\nSalsa\nShredded Romaine Lettuce\nFresh Diced Tomatoes\nSliced Jalapenos\nSour Cream\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBacon Pizza\nBeef Hot Dog on Whole Wheat Bun\nSmile Potatoes\nClassic Chicken Sandwich\nImpossible Burger\nCheese Stuffed Breadsticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-04@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260504
 SUMMARY:Cheese Lasagna Rollup
 DESCRIPTION:Full menu:\nCheese Lasagna Rollup\nWhole Grain Garlic Texas Toast\nSeasoned Broccoli Florets\nGrated Parmesan Cheese\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBeef Taco Pizza\nSausage & Egg on Croissant\nTater Tots\nJumbo Crispy Chicken Tenders\nImpossible Burger\nCheese Stuffed Breadsticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-05@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260505
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nHome-style Beef and Bean Chili\nShredded Cheddar Cheese\nWG Onion Rings\nFresh Diced Red Onion\nKosher Dill Pickle Spear\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBacon\, Egg & Cheese Breakfast Pizza\nClassic Cheeseburger in Bun\nFrench Fries\nSpicy Boneless Wings and Pretzel Rod\nImpossible Burger\nBaked Mozzarella Cheese Sticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBaked Beans\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-06@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260506
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nSteamed Rice\nSeasoned Broccoli\nFortune Cookies\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nMini Chicken Corn Dogs\nFrench Fries\nSpicy Chicken Sandwich\nImpossible Burger\nCheese Pizza Cruncher\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-07@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260507
 SUMMARY:Iced Cinnamon Roll
 DESCRIPTION:Full menu:\nIced Cinnamon Roll\nCheddar Cheese Omelet\nTater Tots\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Ranch Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-08@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260508
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nCreamy Cheddar Cheese Sauce\nRefried Beans\nSalsa\nShredded Romaine Lettuce\nFresh Diced Tomatoes\nSliced Jalapenos\nSour Cream\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBacon Pizza\nBeef Hot Dog on Whole Wheat Bun\nSmile Potatoes\nClassic Chicken Sandwich\nImpossible Burger\nCheese Stuffed Breadsticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-11@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260511
 SUMMARY:Breaded Chicken Drumstick
 DESCRIPTION:Full menu:\nBreaded Chicken Drumstick\nFresh Baked Whole Grain Biscuit\nSeasoned Corn\nMashed Potatoes\nChicken Gravy\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBeef Taco Pizza\nSausage & Egg on Croissant\nTater Tots\nJumbo Crispy Chicken Tenders\nImpossible Burger\nCheese Stuffed Breadsticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-12@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260512
 SUMMARY:Penne Pasta
 DESCRIPTION:Full menu:\nPenne Pasta\nChicken Alfredo Sauce\nSeasoned Broccoli Florets\nGarlic Breadstick\nGrated Parmesan Cheese\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBacon\, Egg & Cheese Breakfast Pizza\nClassic Cheeseburger in Bun\nFrench Fries\nSpicy Boneless Wings and Pretzel Rod\nImpossible Burger\nBaked Mozzarella Cheese Sticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBaked Beans\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-13@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260513
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nVegetable Fried Rice\nSesame Soy Roasted Carrots\nFortune Cookies\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nMini Chicken Corn Dogs\nFrench Fries\nSpicy Chicken Sandwich\nImpossible Burger\nCheese Pizza Cruncher\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-14@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260514
 SUMMARY:Whole Grain Pancake Bites
 DESCRIPTION:Full menu:\nWhole Grain Pancake Bites\nPork Sausage Patty\nHash Brown Patty\nBreakfast Syrup\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Ranch Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-15@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260515
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nCreamy Cheddar Cheese Sauce\nRefried Beans\nSalsa\nShredded Romaine Lettuce\nFresh Diced Tomatoes\nSliced Jalapenos\nSour Cream\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBacon Pizza\nBeef Hot Dog on Whole Wheat Bun\nSmile Potatoes\nClassic Chicken Sandwich\nImpossible Burger\nCheese Stuffed Breadsticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-18@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260518
 SUMMARY:Toasted Cheese Sandwich
 DESCRIPTION:Full menu:\nToasted Cheese Sandwich\nCampbell's Chicken Noodle Soup\nCampbell's Signature Tomato Basil Soup\nFresh Caesar Salad\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBeef Taco Pizza\nSausage & Egg on Croissant\nTater Tots\nJumbo Crispy Chicken Tenders\nImpossible Burger\nCheese Stuffed Breadsticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-19@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260519
 SUMMARY:Mini Maple Waffles
 DESCRIPTION:Full menu:\nMini Maple Waffles\nJumbo Crispy Chicken Tenders\nTater Tots\nBreakfast Syrup\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBacon\, Egg & Cheese Breakfast Pizza\nClassic Cheeseburger in Bun\nFrench Fries\nSpicy Boneless Wings and Pretzel Rod\nImpossible Burger\nBaked Mozzarella Cheese Sticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBaked Beans\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-20@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260520
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nSteamed Rice\nSeasoned Broccoli\nFortune Cookies\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nMini Chicken Corn Dogs\nFrench Fries\nSpicy Chicken Sandwich\nImpossible Burger\nCheese Pizza Cruncher\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-21@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260521
 SUMMARY:Chicken Wings
 DESCRIPTION:Full menu:\nChicken Wings\nCornbread Poppers\nBaked Beans\nBBQ Sauce\nHot Sauce\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Ranch Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-26@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260526
 SUMMARY:Penne Pasta
 DESCRIPTION:Full menu:\nPenne Pasta\nMeaty Spaghetti Sauce\nMarinara Sauce\nSeasoned Broccoli Florets\nGarlic Breadstick\nGrated Parmesan Cheese\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBacon\, Egg & Cheese Breakfast Pizza\nClassic Cheeseburger in Bun\nFrench Fries\nSpicy Boneless Wings and Pretzel Rod\nImpossible Burger\nBaked Mozzarella Cheese Sticks\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBaked Beans\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-05-27@grandledge
-DTSTAMP:20260429T205431Z
+DTSTAMP:20260430T205149Z
 DTSTART;VALUE=DATE:20260527
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nVegetable Fried Rice\nSesame Soy Roasted Carrots\nFortune Cookies\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nMini Chicken Corn Dogs\nFrench Fries\nSpicy Chicken Sandwich\nImpossible Burger\nCheese Pizza Cruncher\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
+END:VEVENT
+BEGIN:VEVENT
+UID:beagle-2026-05-28@grandledge
+DTSTAMP:20260430T205149Z
+DTSTART;VALUE=DATE:20260528
+SUMMARY:Whole Grain French Toast Sticks
+DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nCheddar Cheese Omelet\nHash Brown Patty\nBreakfast Syrup\nTraditional Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Ranch Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 END:VCALENDAR
