@@ -7,56 +7,56 @@ X-WR-CALNAME:Hayes Intermediate School Lunch Menu
 X-WR-CALDESC:Lunch menus for Hayes Intermediate School.
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-05-26@grandledge
-DTSTAMP:20260524T204340Z
+DTSTAMP:20260525T205729Z
 DTSTART;VALUE=DATE:20260526
 SUMMARY:Penne Pasta
 DESCRIPTION:Full menu:\nPenne Pasta\nChicken Alfredo Sauce\nBroccoli\nWhole Grain Garlic Texas Toast\nGrated Parmesan Cheese\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nChicken Nuggets\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nNachos Fun Lunch\nBYO Pizza Fun Lunch\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBlack Beans\nChocolate Low Fat Milk\n1% Low-fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-05-27@grandledge
-DTSTAMP:20260524T204340Z
+DTSTAMP:20260525T205729Z
 DTSTART;VALUE=DATE:20260527
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nVegetable Fried Rice\nVegetable Stir Fry\nChicken Egg Roll\nFortune Cookies\nCheese Pizza Cruncher\nClassic Cheeseburger in Bun\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nNachos Fun Lunch\nBYO Pizza Fun Lunch\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nChocolate Low Fat Milk\n1% Low-fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-05-28@grandledge
-DTSTAMP:20260524T204340Z
+DTSTAMP:20260525T205729Z
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nPork Sausage Patty\nTater Tots\nBreakfast Syrup\nClassic Cheese Pizza\nHawaiian Pizza\nClassic Chicken Sandwich\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nNachos Fun Lunch\nBYO Pizza Fun Lunch\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nChocolate Low Fat Milk\n1% Low-fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-05-29@grandledge
-DTSTAMP:20260524T204340Z
+DTSTAMP:20260525T205729Z
 DTSTART;VALUE=DATE:20260529
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nRefried Beans\nCreamy Cheddar Cheese Sauce\nFresh Diced Tomatoes\nShredded Romaine Lettuce\nSliced Jalapenos\nSour Cream\nCheesy French Bread Pizza\nSausage & Egg on Croissant\nTater Tots\nMuffin\, Goldfish & Yogurt Fun Lunch\nNachos Fun Lunch\nBYO Pizza Fun Lunch\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nChocolate Low Fat Milk\n1% Low-fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-06-01@grandledge
-DTSTAMP:20260524T204340Z
+DTSTAMP:20260525T205729Z
 DTSTART;VALUE=DATE:20260601
 SUMMARY:BBQ Glazed Drumstick
 DESCRIPTION:Full menu:\nBBQ Glazed Drumstick\nSoft Baked Pretzel\nBaked Beans\nShredded Cheddar Cheese\nCheese Stuffed Breadsticks\nPizza Sauce\nChicken Tenders\nSmile Potatoes\nMuffin\, Goldfish & Yogurt Fun Lunch\nNachos Fun Lunch\nBYO Pizza Fun Lunch\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nChocolate Low Fat Milk\n1% Low-fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-06-02@grandledge
-DTSTAMP:20260524T204340Z
+DTSTAMP:20260525T205729Z
 DTSTART;VALUE=DATE:20260602
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nGarlic Breadstick\nSavory Green Beans\nApple Crisp\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nClassic Cheeseburger in Bun\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nNachos Fun Lunch\nBYO Pizza Fun Lunch\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBlack Beans\nChocolate Low Fat Milk\n1% Low-fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-06-03@grandledge
-DTSTAMP:20260524T204340Z
+DTSTAMP:20260525T205729Z
 DTSTART;VALUE=DATE:20260603
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nMuffin\, Goldfish & Yogurt Fun Lunch\nStrawberry Craisins\nFresh Fuji Apple\nFresh Orange\nFresh Banana\nFresh Carrots\nFresh Broccoli Florets\nChocolate Low Fat Milk\n1% Low-fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-06-04@grandledge
-DTSTAMP:20260524T204340Z
+DTSTAMP:20260525T205729Z
 DTSTART;VALUE=DATE:20260604
 SUMMARY:Mini Confetti Pancakes
 DESCRIPTION:Full menu:\nMini Confetti Pancakes\nPork Sausage Patty\nSeasoned Diced Potatoes\nBreakfast Syrup\nCheese Stuffed Breadsticks\nPersonal Galaxy Cheese Pizza\nCheese Pizza Cruncher\nCheesy French Bread Pizza\nSpicy Chicken Sandwich\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nNachos Fun Lunch\nBYO Pizza Fun Lunch\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nChocolate Low Fat Milk\n1% Low-fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
