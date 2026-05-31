@@ -7,28 +7,28 @@ X-WR-CALNAME:Delta Center Elementary Lunch Menu
 X-WR-CALDESC:Lunch menus for Delta Center Elementary.
 BEGIN:VEVENT
 UID:delta-center-2026-06-01@grandledge
-DTSTAMP:20260530T204533Z
+DTSTAMP:20260531T205026Z
 DTSTART;VALUE=DATE:20260601
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Whole Fruit\nFresh Carrots\nSeasoned Corn\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:delta-center-2026-06-02@grandledge
-DTSTAMP:20260530T204533Z
+DTSTAMP:20260531T205026Z
 DTSTART;VALUE=DATE:20260602
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nCinnamon Applesauce\nRaisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:delta-center-2026-06-03@grandledge
-DTSTAMP:20260530T204533Z
+DTSTAMP:20260531T205026Z
 DTSTART;VALUE=DATE:20260603
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nChicken Sausage Patty\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nFresh Cherry Tomatoes\nSliced Cucumbers\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:delta-center-2026-06-04@grandledge
-DTSTAMP:20260530T204533Z
+DTSTAMP:20260531T205026Z
 DTSTART;VALUE=DATE:20260604
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nBlue Raspberry Lemon Frozen SideKicks\nDiced Watermelon\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
