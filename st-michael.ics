@@ -6,29 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:St. Michael's School Lunch Menu
 X-WR-CALDESC:Lunch menus for St. Michael's School.
 BEGIN:VEVENT
-UID:st-michael-2026-06-01@grandledge
-DTSTAMP:20260601T223010Z
-DTSTART;VALUE=DATE:20260601
-SUMMARY:Chicken Tenders
-DESCRIPTION:Full menu:\nChicken Tenders\nLow Fat Mozzarella String Cheese\nRaspberry Rainbow Yogurt\nSoft Baked Pretzel\nSliced Fresh Apples\nPineapple Tidbits\nFresh Whole Fruit\nSeasoned Corn\nFresh Carrots\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\n1% Low-fat Milk\nChocolate Low Fat Milk
-END:VEVENT
-BEGIN:VEVENT
-UID:st-michael-2026-06-02@grandledge
-DTSTAMP:20260601T223010Z
-DTSTART;VALUE=DATE:20260602
-SUMMARY:Cheesy French Bread Pizza
-DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nLow Fat Mozzarella String Cheese\nRaspberry Rainbow Yogurt\nSoft Baked Pretzel\nCinnamon Applesauce\nRaisins\nFresh Whole Fruit\nFresh Broccoli Florets\nFresh Cauliflower Florets\nKetchup\nLight Ranch Dressing\n1% Low-fat Milk\nChocolate Low Fat Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:st-michael-2026-06-03@grandledge
-DTSTAMP:20260601T223010Z
+DTSTAMP:20260603T000519Z
 DTSTART;VALUE=DATE:20260603
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nChicken Sausage Patty\nLow Fat Mozzarella String Cheese\nRaspberry Rainbow Yogurt\nSoft Baked Pretzel\nFresh Banana\nChilled Diced Pears\nFresh Whole Fruit\nSliced Cucumbers\nFresh Cherry Tomatoes\nKetchup\nLight Ranch Dressing\nBreakfast Syrup\n1% Low-fat Milk\nChocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-06-04@grandledge
-DTSTAMP:20260601T223010Z
+DTSTAMP:20260603T000519Z
 DTSTART;VALUE=DATE:20260604
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nChicken Sausage Patty\nLow Fat Mozzarella String Cheese\nRaspberry Rainbow Yogurt\nSoft Baked Pretzel\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Whole Fruit\nFresh Celery Sticks\nFresh Carrots\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\n1% Low-fat Milk\nChocolate Low Fat Milk
