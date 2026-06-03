@@ -76,11 +76,16 @@ def fetch_week_menu(district: str, school_slug: str, menu_type: str, date: dt.da
 
 def fetch_district_name(district: str) -> str:
     url = f"https://{district}.api.nutrislice.com/menu/api/settings"
-    resp = requests.get(url, timeout=30)
-    resp.raise_for_status()
+    try:
+        resp = requests.get(url, timeout=30)
+        resp.raise_for_status()
+    except requests.exceptions.HTTPError:
+        return district
+
     text = resp.text.strip()
     if not text:
         return district
+
     if text.startswith("{"):
         data = json.loads(text)
     else:
@@ -89,6 +94,7 @@ def fetch_district_name(district: str) -> str:
         if prefix_end == -1 or suffix_start == -1 or suffix_start <= prefix_end:
             return district
         data = json.loads(text[prefix_end + 1 : suffix_start])
+
     return data.get("district_name") or district
 
 
