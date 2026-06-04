@@ -6,15 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Beagle Middle School Lunch Menu
 X-WR-CALDESC:Lunch menus for Beagle Middle School.
 BEGIN:VEVENT
-UID:beagle-2026-06-03@grandledge
-DTSTAMP:20260603T222402Z
-DTSTART;VALUE=DATE:20260603
-SUMMARY:Tangerine Chicken
-DESCRIPTION:Full menu:\nTangerine Chicken\nSteamed Rice\nSeasoned Broccoli\nFortune Cookies\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nMini Chicken Corn Dogs\nFrench Fries\nSpicy Chicken Sandwich\nImpossible Burger\nCheese Pizza Cruncher\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nShredded Romaine Lettuce\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
-END:VEVENT
-BEGIN:VEVENT
 UID:beagle-2026-06-04@grandledge
-DTSTAMP:20260603T222402Z
+DTSTAMP:20260604T212501Z
 DTSTART;VALUE=DATE:20260604
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nRefried Beans\nCreamy Cheddar Cheese Sauce\nSalsa\nShredded Romaine Lettuce\nFresh Diced Tomatoes\nSliced Jalapenos\nSour Cream\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nSliced Deli Ham\nDeli Turkey\nSalami\nSub Roll\nCheddar Cheese\nPepper Jack Cheese\nSliced Tomatoes\nFresh Sliced Red Onion\nPickles\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\n1% Low-fat Milk\nChocolate Low Fat Milk\nApple Juice\nKetchup\nLight Ranch Dressing\nBBQ Sauce\nYellow Mustard\nMayonnaise
