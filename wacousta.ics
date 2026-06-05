@@ -5,11 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Wacousta Elementary Lunch Menu
 X-WR-CALDESC:Lunch menus for Wacousta Elementary.
-BEGIN:VEVENT
-UID:wacousta-2026-06-04@grandledge
-DTSTAMP:20260604T212509Z
-DTSTART;VALUE=DATE:20260604
-SUMMARY:Beef Hot Dog on Whole Wheat Bun
-DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nBlue Raspberry Lemon Frozen SideKicks\nDiced Watermelon\nFresh Whole Fruit\nFresh Carrots\nFresh Celery Sticks\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise\n1% Low-fat Milk\nChocolate Low Fat Milk
-END:VEVENT
 END:VCALENDAR

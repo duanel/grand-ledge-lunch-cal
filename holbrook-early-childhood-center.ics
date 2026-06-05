@@ -5,11 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Neff Early Childhood Center Lunch Menu
 X-WR-CALDESC:Lunch menus for Neff Early Childhood Center.
-BEGIN:VEVENT
-UID:holbrook-early-childhood-center-2026-06-04@grandledge
-DTSTAMP:20260604T212507Z
-DTSTART;VALUE=DATE:20260604
-SUMMARY:Low Fat Mozzarella String Cheese
-DESCRIPTION:Full menu:\nLow Fat Mozzarella String Cheese\nRaspberry Rainbow Yogurt\nSoft Baked Pretzel\nChilled Mandarin Oranges\nSeasoned Carrots\n1% Low-fat Milk
-END:VEVENT
 END:VCALENDAR
