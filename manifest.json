@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:43:19.765044Z",
+  "generated_at": "2026-08-03T20:55:58.309108Z",
   "district": "grandledge",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -11,6 +11,10 @@
     {
       "slug": "delta-center",
       "name": "Delta Center Elementary"
+    },
+    {
+      "slug": "delta-mills",
+      "name": "Delta Mills"
     },
     {
       "slug": "grand-ledge-high-school",
@@ -25,8 +29,16 @@
       "name": "Holbrook Elementary"
     },
     {
+      "slug": "great-start-neff",
+      "name": "Neff- Great Start"
+    },
+    {
+      "slug": "neff-head-start",
+      "name": "Neff- Head Start"
+    },
+    {
       "slug": "holbrook-early-childhood-center",
-      "name": "Neff Early Childhood Center"
+      "name": "Neff- Little Comets"
     },
     {
       "slug": "st-michael",

@@ -5,4 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Delta Center Elementary Lunch Menu
 X-WR-CALDESC:Lunch menus for Delta Center Elementary.
+BEGIN:VEVENT
+UID:delta-center-2026-08-26@grandledge
+DTSTAMP:20260803T205543Z
+DTSTART;VALUE=DATE:20260826
+SUMMARY:Chicken Tenders
+DESCRIPTION:Full menu:\nChicken Tenders\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
+END:VEVENT
+BEGIN:VEVENT
+UID:delta-center-2026-08-28@grandledge
+DTSTAMP:20260803T205543Z
+DTSTART;VALUE=DATE:20260828
+SUMMARY:Beef Hot Dog on Whole Wheat Bun
+DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Orange Wedges\nChilled Peaches\nTossed Salad\nSliced Cucumbers\nBaked Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,25 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hayes Intermediate School Lunch Menu
 X-WR-CALDESC:Lunch menus for Hayes Intermediate School.
+BEGIN:VEVENT
+UID:hayes-middle-school-2026-08-26@grandledge
+DTSTAMP:20260803T205548Z
+DTSTART;VALUE=DATE:20260826
+SUMMARY:Tangerine Chicken
+DESCRIPTION:Full menu:\nTangerine Chicken\nVegetable Fried Rice\nVegetable Stir Fry\nFortune Cookies\nCheese Pizza Cruncher\nClassic Cheeseburger in Bun\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nMilk\nApple Juice\nCondiments
+END:VEVENT
+BEGIN:VEVENT
+UID:hayes-middle-school-2026-08-27@grandledge
+DTSTAMP:20260803T205548Z
+DTSTART;VALUE=DATE:20260827
+SUMMARY:Whole Grain French Toast Sticks
+DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nPork Sausage Patty\nTater Tots\nBreakfast Syrup\nClassic Cheese Pizza\nHawaiian Pizza\nClassic Chicken Sandwich\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nMilk\nApple Juice\nCondiments
+END:VEVENT
+BEGIN:VEVENT
+UID:hayes-middle-school-2026-08-28@grandledge
+DTSTAMP:20260803T205548Z
+DTSTART;VALUE=DATE:20260828
+SUMMARY:Beef Taco Meat
+DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nRefried Beans\nCreamy Cheddar Cheese Sauce\nFresh Diced Tomatoes\nShredded Romaine Lettuce\nSliced Jalapenos\nSour Cream\nCheesy French Bread Pizza\nSausage & Egg on Croissant\nTater Tots\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nMilk\nApple Juice\nCondiments
+END:VEVENT
 END:VCALENDAR

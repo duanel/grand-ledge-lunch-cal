@@ -3,25 +3,25 @@ VERSION:2.0
 PRODID:-//a2schools-cal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Neff- Little Comets Lunch Menu
-X-WR-CALDESC:Lunch menus for Neff- Little Comets.
+X-WR-CALNAME:Delta Mills Lunch Menu
+X-WR-CALDESC:Lunch menus for Delta Mills.
 BEGIN:VEVENT
-UID:holbrook-early-childhood-center-2026-08-26@grandledge
-DTSTAMP:20260803T205554Z
+UID:delta-mills-2026-08-26@grandledge
+DTSTAMP:20260803T205544Z
 DTSTART;VALUE=DATE:20260826
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nFresh Banana\nSliced Cucumbers\nKetchup Packet\nRanch Dressing\nBarbecue Sauce\nMilk
 END:VEVENT
 BEGIN:VEVENT
-UID:holbrook-early-childhood-center-2026-08-27@grandledge
-DTSTAMP:20260803T205554Z
+UID:delta-mills-2026-08-27@grandledge
+DTSTAMP:20260803T205544Z
 DTSTART;VALUE=DATE:20260827
 SUMMARY:Classic Cheeseburger in Bun
 DESCRIPTION:Full menu:\nClassic Cheeseburger in Bun\nChilled Mandarin Oranges\nSeasoned Carrots\nKetchup Packet\nRanch Dressing\nBarbecue Sauce\nMilk
 END:VEVENT
 BEGIN:VEVENT
-UID:holbrook-early-childhood-center-2026-08-28@grandledge
-DTSTAMP:20260803T205554Z
+UID:delta-mills-2026-08-28@grandledge
+DTSTAMP:20260803T205544Z
 DTSTART;VALUE=DATE:20260828
 SUMMARY:Marinara Sauce
 DESCRIPTION:Full menu:\nMarinara Sauce\nMini Whole Grain Flatbread\nShredded Mozzarella Cheese\nPineapple Tidbits\nFresh Celery Sticks\nMilk
