@@ -7,14 +7,21 @@ X-WR-CALNAME:Willow Ridge Elementary Lunch Menu
 X-WR-CALDESC:Lunch menus for Willow Ridge Elementary.
 BEGIN:VEVENT
 UID:willow-ridge-2026-08-26@grandledge
-DTSTAMP:20260803T205558Z
+DTSTAMP:20260804T210242Z
 DTSTART;VALUE=DATE:20260826
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
+UID:willow-ridge-2026-08-27@grandledge
+DTSTAMP:20260804T210242Z
+DTSTART;VALUE=DATE:20260827
+SUMMARY:Classic Cheeseburger in Bun
+DESCRIPTION:Full menu:\nClassic Cheeseburger in Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Carrots\nFresh Celery Sticks\nMilk\nKetchup\nLight Ranch Dressing
+END:VEVENT
+BEGIN:VEVENT
 UID:willow-ridge-2026-08-28@grandledge
-DTSTAMP:20260803T205558Z
+DTSTAMP:20260804T210242Z
 DTSTART;VALUE=DATE:20260828
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Orange Wedges\nChilled Peaches\nTossed Salad\nSliced Cucumbers\nBaked Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
