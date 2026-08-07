@@ -7,14 +7,14 @@ X-WR-CALNAME:St. Michael's School Lunch Menu
 X-WR-CALDESC:Lunch menus for St. Michael's School.
 BEGIN:VEVENT
 UID:st-michael-2026-08-26@grandledge
-DTSTAMP:20260805T205805Z
+DTSTAMP:20260807T005005Z
 DTSTART;VALUE=DATE:20260826
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-08-27@grandledge
-DTSTAMP:20260805T205805Z
+DTSTAMP:20260807T005005Z
 DTSTART;VALUE=DATE:20260827
 SUMMARY:Classic Cheeseburger in Bun
 DESCRIPTION:Full menu:\nClassic Cheeseburger in Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Carrots\nFresh Celery Sticks\nMilk\nKetchup\nLight Ranch Dressing
