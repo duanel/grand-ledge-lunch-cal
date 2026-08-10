@@ -7,21 +7,21 @@ X-WR-CALNAME:Neff- Head Start Lunch Menu
 X-WR-CALDESC:Lunch menus for Neff- Head Start.
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-01@grandledge
-DTSTAMP:20260809T202102Z
+DTSTAMP:20260810T203217Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nChilled Peaches\nSavory Green Beans\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-02@grandledge
-DTSTAMP:20260809T202102Z
+DTSTAMP:20260810T203217Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nLow Fat Mozzarella String Cheese\nChicken Sausage Patty\nFresh Banana\nSliced Cucumbers\nNatural Breakfast Syrup\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-03@grandledge
-DTSTAMP:20260809T202102Z
+DTSTAMP:20260810T203217Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Low Fat Mozzarella String Cheese
 DESCRIPTION:Full menu:\nLow Fat Mozzarella String Cheese\nRaspberry Rainbow Yogurt\nSoft Baked Pretzel\nChilled Mandarin Oranges\nFresh Celery Sticks\nMilk
