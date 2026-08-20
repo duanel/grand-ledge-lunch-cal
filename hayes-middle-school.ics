@@ -7,100 +7,107 @@ X-WR-CALNAME:Hayes Intermediate School Lunch Menu
 X-WR-CALDESC:Lunch menus for Hayes Intermediate School.
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-08-26@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260826
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nVegetable Fried Rice\nVegetable Stir Fry\nFortune Cookies\nCheese Pizza Cruncher\nClassic Cheeseburger in Bun\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-08-27@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260827
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nPork Sausage Patty\nTater Tots\nBreakfast Syrup\nClassic Cheese Pizza\nHawaiian Pizza\nClassic Chicken Sandwich\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-08-28@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260828
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nRefried Beans\nCreamy Cheddar Cheese Sauce\nFresh Diced Tomatoes\nShredded Romaine Lettuce\nSliced Jalapenos\nSour Cream\nCheesy French Bread Pizza\nSausage & Egg on Croissant\nTater Tots\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-08-31@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260831
 SUMMARY:BBQ Glazed Drumstick
 DESCRIPTION:Full menu:\nBBQ Glazed Drumstick\nMini Whole Grain Biscuit\nBaked Beans\nCorn on the Cob\nCheese Stuffed Breadsticks\nPizza Sauce\nChicken Tenders\nSmile Potatoes\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-01@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nGarlic Breadstick\nSavory Green Beans\nApple Crisp\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nSpicy Chicken Sandwich\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBlack Beans\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-02@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:Chicken Wings
 DESCRIPTION:Full menu:\nChicken Wings\nCornbread Poppers\nTater Tots\nHot Sauce\nBaked Mozzarella Cheese Sticks\nPizza Sauce\nTurkey Corn Dog\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-03@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Mini Confetti Pancakes
 DESCRIPTION:Full menu:\nMini Confetti Pancakes\nEgg Patty\nSeasoned Diced Potatoes\nBreakfast Syrup\nClassic Cheese Pizza\nSausage Gravy & Egg Breakfast Pizza\nClassic Cheeseburger in Bun\nCorn Chips\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-08@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nFresh Baked Whole Grain Biscuit\nSeasoned Corn\nMashed Potatoes\nChicken Gravy\nShredded Cheddar Cheese\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nChicken Nuggets\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBlack Beans\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-09@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260909
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nBlueberry Bash Waffles\nTater Tots\nBreakfast Syrup\nCheese Pizza Cruncher\nClassic Cheeseburger in Bun\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-10@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Mini Cheese Ravioli with Marinara Sauce
 DESCRIPTION:Full menu:\nMini Cheese Ravioli with Marinara Sauce\nWhole Grain Garlic Texas Toast\nSeasoned Broccoli\nGrated Parmesan Cheese\nClassic Cheese Pizza\nPickle Pizza\nClassic Chicken Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-11@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260911
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nRefried Beans\nCreamy Cheddar Cheese Sauce\nFresh Diced Tomatoes\nShredded Romaine Lettuce\nSliced Jalapenos\nSour Cream\nCheesy French Bread Pizza\nToasted Cheese Sandwich\nTater Tots\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-14@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260914
 SUMMARY:Sloppy Joe Meat
 DESCRIPTION:Full menu:\nSloppy Joe Meat\nHamburger Bun\nMacaroni and Cheese\nKosher Dill Pickle Spear\nCheese Stuffed Breadsticks\nPizza Sauce\nChicken Tenders\nSmile Potatoes\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-15@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Iced Cinnamon Roll
 DESCRIPTION:Full menu:\nIced Cinnamon Roll\nEgg Patty\nSeasoned Diced Potatoes\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nSpicy Chicken Sandwich\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBlack Beans\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:hayes-middle-school-2026-09-16@grandledge
-DTSTAMP:20260819T201656Z
+DTSTAMP:20260820T201823Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Home-style Beef and Bean Chili
 DESCRIPTION:Full menu:\nHome-style Beef and Bean Chili\nSoft Baked Pretzel\nFrench Fries\nShredded Cheddar Cheese\nSour Cream\nFresh Chopped Onions\nBaked Mozzarella Cheese Sticks\nPizza Sauce\nTurkey Corn Dog\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nMilk\nApple Juice\nCondiments
+END:VEVENT
+BEGIN:VEVENT
+UID:hayes-middle-school-2026-09-17@grandledge
+DTSTAMP:20260820T201823Z
+DTSTART;VALUE=DATE:20260917
+SUMMARY:Reduced Sugar Vanilla Yogurt
+DESCRIPTION:Full menu:\nReduced Sugar Vanilla Yogurt\nCinnamon Granola\nCinnamon Goldfish Graham Crackers\nChilled Sliced Strawberries\nChilled Blueberries\nClassic Cheese Pizza\nMeat Lover's Pizza\nClassic Cheeseburger in Bun\nFrench Fries\nMuffin\, Goldfish & Yogurt Fun Lunch\nBaked Tortilla Chip Scoops\nLow Fat Mozzarella String Cheese\nNachos\, Cheese\, & Salsa Fun Lunch\nBYO Pizza Fun Lunch\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nRaisins\nStrawberry Craisins\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nMilk\nApple Juice\nCondiments
 END:VEVENT
 END:VCALENDAR
