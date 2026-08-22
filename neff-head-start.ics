@@ -7,70 +7,70 @@ X-WR-CALNAME:Neff- Head Start Lunch Menu
 X-WR-CALDESC:Lunch menus for Neff- Head Start.
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-01@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nChilled Peaches\nSavory Green Beans\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-02@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nLow Fat Mozzarella String Cheese\nChicken Sausage Patty\nFresh Banana\nSliced Cucumbers\nNatural Breakfast Syrup\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-03@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Low Fat Mozzarella String Cheese
 DESCRIPTION:Full menu:\nLow Fat Mozzarella String Cheese\nRaspberry Rainbow Yogurt\nSoft Baked Pretzel\nChilled Mandarin Oranges\nFresh Celery Sticks\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-08@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Cheese Pizza Cruncher
 DESCRIPTION:Full menu:\nCheese Pizza Cruncher\nChilled Peaches\nSavory Green Beans\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-09@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260909
 SUMMARY:Toasted Cheese Sandwich
 DESCRIPTION:Full menu:\nToasted Cheese Sandwich\nFresh Banana\nSliced Cucumbers\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-10@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Mini Maple Waffles
 DESCRIPTION:Full menu:\nMini Maple Waffles\nLow Fat Mozzarella String Cheese\nChicken Sausage Patty\nChilled Mandarin Oranges\nSeasoned Carrots\nNatural Breakfast Syrup\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-14@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260914
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nWhole Grain Garlic Texas Toast\nFresh Apple Slices\nSeasoned Corn\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-15@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Whole Grain Blueberry Muffin
 DESCRIPTION:Full menu:\nWhole Grain Blueberry Muffin\nCheddar Goldfish Crackers\nLow Fat Mozzarella String Cheese\nRaspberry Rainbow Yogurt\nChilled Peaches\nFresh Celery Sticks\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-16@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Tempura Style Chicken Nuggets
 DESCRIPTION:Full menu:\nTempura Style Chicken Nuggets\nFresh Banana\nSliced Cucumbers\nKetchup Packet\nRanch Dressing\nBarbecue Sauce\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:neff-head-start-2026-09-17@grandledge
-DTSTAMP:20260821T201518Z
+DTSTAMP:20260822T201252Z
 DTSTART;VALUE=DATE:20260917
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nLow Fat Mozzarella String Cheese\nChicken Sausage Patty\nChilled Mandarin Oranges\nSeasoned Carrots\nNatural Breakfast Syrup\nMilk
