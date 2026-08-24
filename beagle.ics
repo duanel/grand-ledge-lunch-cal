@@ -7,114 +7,121 @@ X-WR-CALNAME:Beagle Middle School Lunch Menu
 X-WR-CALDESC:Lunch menus for Beagle Middle School.
 BEGIN:VEVENT
 UID:beagle-2026-08-26@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260826
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nVegetable Fried Rice\nSesame Soy Roasted Carrots\nFortune Cookies\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nSausage & Egg on Croissant\nHash Brown Patty\nJumbo Crispy Chicken Tenders\nImpossible Burger\nCheese Pizza Cruncher\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-08-27@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260827
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nCheddar Cheese Omelet\nHash Brown Patty\nBreakfast Syrup\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Ranch Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-08-28@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260828
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nCreamy Cheddar Cheese Sauce\nRefried Beans\nNacho Toppings\nBuild Your Own Sub\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nPepperoni & Jalapeno Pizza\nBeef Hot Dog on Whole Wheat Bun\nSmile Potatoes\nClassic Chicken Sandwich\nImpossible Burger\nCheese Stuffed Breadsticks\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-08-31@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260831
 SUMMARY:Home-style Beef and Bean Chili
 DESCRIPTION:Full menu:\nHome-style Beef and Bean Chili\nWalking Taco Nacho Cheese Doritos Tortilla Chips\nSeasoned Corn\nShredded Cheddar Cheese\nSour Cream\nSliced Jalapenos\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nPickle Pizza\nMini Chicken Corn Dogs\nTater Tots\nSpicy Chicken Sandwich\nImpossible Burger\nCheese Stuffed Breadsticks\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-01@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nHome-style Beef and Bean Chili\nShredded Cheddar Cheese\nWG Onion Rings\nFresh Diced Red Onion\nKosher Dill Pickle Spear\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nSausage Gravy & Egg Breakfast Pizza\nClassic Cheeseburger in Bun\nFrench Fries\nSpicy Boneless Wings and Pretzel Rod\nImpossible Burger\nBaked Mozzarella Cheese Sticks\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBaked Beans\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-02@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nSteamed Rice\nSeasoned Broccoli\nFortune Cookies\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nSausage & Egg on Croissant\nHash Brown Patty\nJumbo Crispy Chicken Tenders\nImpossible Burger\nCheese Pizza Cruncher\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-03@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Iced Cinnamon Roll
 DESCRIPTION:Full menu:\nIced Cinnamon Roll\nCheddar Cheese Omelet\nTater Tots\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Ranch Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-08@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Mini Cheese Ravioli with Marinara Sauce
 DESCRIPTION:Full menu:\nMini Cheese Ravioli with Marinara Sauce\nSeasoned Broccoli\nGarlic Breadstick\nGrated Parmesan Cheese\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nSausage Gravy & Egg Breakfast Pizza\nClassic Cheeseburger in Bun\nFrench Fries\nSpicy Boneless Wings and Pretzel Rod\nImpossible Burger\nBaked Mozzarella Cheese Sticks\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBaked Beans\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-09@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260909
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nVegetable Fried Rice\nSesame Soy Roasted Carrots\nFortune Cookies\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nSausage & Egg on Croissant\nHash Brown Patty\nJumbo Crispy Chicken Tenders\nImpossible Burger\nCheese Pizza Cruncher\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-10@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Whole Grain Pancake Bites
 DESCRIPTION:Full menu:\nWhole Grain Pancake Bites\nPork Sausage Patty\nHash Brown Patty\nBreakfast Syrup\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Ranch Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-11@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260911
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nCreamy Cheddar Cheese Sauce\nRefried Beans\nNacho Toppings\nBuild Your Own Sub\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nPepperoni & Jalapeno Pizza\nBeef Hot Dog on Whole Wheat Bun\nSmile Potatoes\nClassic Chicken Sandwich\nImpossible Burger\nCheese Stuffed Breadsticks\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-14@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260914
 SUMMARY:BBQ Pulled Pork
 DESCRIPTION:Full menu:\nBBQ Pulled Pork\nHamburger Bun\nMacaroni and Cheese\nCorn on the Cob\nKosher Dill Pickle Spear\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nPickle Pizza\nMini Chicken Corn Dogs\nTater Tots\nSpicy Chicken Sandwich\nImpossible Burger\nCheese Stuffed Breadsticks\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-15@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Mini Maple Waffles
 DESCRIPTION:Full menu:\nMini Maple Waffles\nJumbo Crispy Chicken Tenders\nTater Tots\nBreakfast Syrup\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nSausage Gravy & Egg Breakfast Pizza\nClassic Cheeseburger in Bun\nFrench Fries\nSpicy Boneless Wings and Pretzel Rod\nImpossible Burger\nBaked Mozzarella Cheese Sticks\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Broccoli Florets\nBaked Beans\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-16@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Tangerine Chicken
 DESCRIPTION:Full menu:\nTangerine Chicken\nSteamed Rice\nSeasoned Broccoli\nFortune Cookies\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nMeat Lover's Pizza\nSausage & Egg on Croissant\nHash Brown Patty\nJumbo Crispy Chicken Tenders\nImpossible Burger\nCheese Pizza Cruncher\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nDiced Watermelon\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nRed Bell Pepper Strips\nGreen Peas\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-17@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260917
 SUMMARY:Chicken Wings
 DESCRIPTION:Full menu:\nChicken Wings\nCornbread Poppers\nBaked Beans\nBBQ Sauce\nHot Sauce\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nBuffalo Chicken Ranch Pizza\nToasted Cheese Sandwich\nFrench Fries\nBBQ Rib-B-Q Sandwich\nImpossible Burger\nCheesy French Bread Pizza\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nFresh Red Seedless Grapes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Celery Sticks\nFresh Broccoli Florets\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
 END:VEVENT
 BEGIN:VEVENT
 UID:beagle-2026-09-18@grandledge
-DTSTAMP:20260823T201202Z
+DTSTAMP:20260824T201916Z
 DTSTART;VALUE=DATE:20260918
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nCreamy Cheddar Cheese Sauce\nRefried Beans\nNacho Toppings\nBuild Your Own Sub\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nBacon Pizza\nBeef Hot Dog on Whole Wheat Bun\nSmile Potatoes\nClassic Chicken Sandwich\nImpossible Burger\nCheese Stuffed Breadsticks\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nSliced Fresh Strawberries\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nFresh Broccoli Florets\nBlack Beans\nGreen Peas\nRed Bell Pepper Strips\nFresh Celery Sticks\nShredded Cheddar Cheese\nMilk\nApple Juice\nCondiments
+END:VEVENT
+BEGIN:VEVENT
+UID:beagle-2026-09-21@grandledge
+DTSTAMP:20260824T201916Z
+DTSTART;VALUE=DATE:20260921
+SUMMARY:Popcorn Chicken
+DESCRIPTION:Full menu:\nPopcorn Chicken\nFresh Baked Whole Grain Biscuit\nSeasoned Corn\nMashed Potatoes\nChicken Gravy\nShredded Cheddar Cheese\nClassic Pepperoni Pizza\nClassic Cheese Pizza\nBeef Taco Pizza\nMini Chicken Corn Dogs\nTater Tots\nSpicy Chicken Sandwich\nImpossible Burger\nCheese Stuffed Breadsticks\nBuild Your Own Sub\nTurkey & Cheddar Sub\nHam & Cheddar Sub\nStrawberry Parfait with Granola\nMuffin\, Goldfish & Yogurt Fun Lunch\nPopcorn Chicken Salad and Croutons\nPineapple Cubes\nFresh Banana\nFresh Fuji Apple\nFresh Orange\nFresh Romaine Lettuce Mix\nSliced Cucumbers\nFresh Carrots\nFresh Cherry Tomatoes\nMilk\nApple Juice\nCondiments
 END:VEVENT
 END:VCALENDAR
