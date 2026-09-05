@@ -7,133 +7,133 @@ X-WR-CALNAME:Wacousta Elementary Lunch Menu
 X-WR-CALDESC:Lunch menus for Wacousta Elementary.
 BEGIN:VEVENT
 UID:wacousta-2026-09-08@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Cheese Pizza Cruncher
 DESCRIPTION:Full menu:\nCheese Pizza Cruncher\nSoy Butter & Jelly with Cheez-Its and String Cheese\nCinnamon Applesauce\nCherry Craisins\nFresh Broccoli Florets\nFresh Cauliflower Florets\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-09@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260909
 SUMMARY:Toasted Cheese Sandwich
 DESCRIPTION:Full menu:\nToasted Cheese Sandwich\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-10@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Blueberry Bash Waffles
 DESCRIPTION:Full menu:\nBlueberry Bash Waffles\nChicken Sausage Patty\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Carrots\nFresh Celery Sticks\nMilk\nKetchup\nLight Ranch Dressing\nBreakfast Syrup
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-11@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260911
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nShredded Cheddar Cheese\nTortilla Chips\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Orange Wedges\nChilled Peaches\nTossed Salad\nSliced Cucumbers\nVegetarian Refried Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-14@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260914
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nWhole Grain Garlic Texas Toast\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nSliced Fresh Apples\nPineapple Tidbits\nFresh Carrots\nSeasoned Corn\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-15@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Personal Galaxy Cheese Pizza
 DESCRIPTION:Full menu:\nPersonal Galaxy Cheese Pizza\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nCinnamon Applesauce\nRaisins\nFresh Broccoli Florets\nFresh Cauliflower Florets\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-16@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Tempura Style Chicken Nuggets
 DESCRIPTION:Full menu:\nTempura Style Chicken Nuggets\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-17@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260917
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nChicken Sausage Patty\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Carrots\nFresh Celery Sticks\nMilk\nKetchup\nLight Ranch Dressing\nBreakfast Syrup
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-18@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260918
 SUMMARY:Classic Chicken Sandwich
 DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Orange Wedges\nChilled Peaches\nTossed Salad\nSliced Cucumbers\nBaked Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-21@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260921
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Carrots\nSeasoned Corn\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-22@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Mini Confetti Pancakes
 DESCRIPTION:Full menu:\nMini Confetti Pancakes\nChicken Sausage Patty\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nCinnamon Applesauce\nCherry Craisins\nFresh Broccoli Florets\nFresh Cauliflower Florets\nMilk\nKetchup\nLight Ranch Dressing\nBreakfast Syrup
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-23@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260923
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-24@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260924
 SUMMARY:Classic Cheeseburger in Bun
 DESCRIPTION:Full menu:\nClassic Cheeseburger in Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Carrots\nFresh Celery Sticks\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-25@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260925
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Orange Wedges\nChilled Peaches\nTossed Salad\nSliced Cucumbers\nBaked Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-28@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260928
 SUMMARY:Soft Beef Whole Grain Taco
 DESCRIPTION:Full menu:\nSoft Beef Whole Grain Taco\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Carrots\nVegetarian Refried Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-29@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nCinnamon Applesauce\nRaisins\nFresh Broccoli Florets\nFresh Cauliflower Florets\nSmile Potatoes\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-09-30@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Mini  French Toast
 DESCRIPTION:Full menu:\nMini  French Toast\nChicken Sausage Patty\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing\nBreakfast Syrup
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-10-01@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Carrots\nFresh Celery Sticks\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:wacousta-2026-10-02@grandledge
-DTSTAMP:20260904T215816Z
+DTSTAMP:20260905T214841Z
 DTSTART;VALUE=DATE:20261002
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nFresh Orange Wedges\nChilled Peaches\nTossed Salad\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing
