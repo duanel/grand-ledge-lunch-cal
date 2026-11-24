@@ -6,120 +6,113 @@ METHOD:PUBLISH
 X-WR-CALNAME:St. Michael's School Lunch Menu
 X-WR-CALDESC:Lunch menus for St. Michael's School.
 BEGIN:VEVENT
-UID:st-michael-2026-11-23@grandledge
-DTSTAMP:20261123T003211Z
-DTSTART;VALUE=DATE:20261123
-SUMMARY:Soft Beef Whole Grain Taco
-DESCRIPTION:Full menu:\nSoft Beef Whole Grain Taco\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Carrots\nVegetarian Refried Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
-END:VEVENT
-BEGIN:VEVENT
 UID:st-michael-2026-11-24@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nPretzel Fun Lunch- Soft Pretzel\, Yogurt and String Cheese\nCinnamon Applesauce\nRaisins\nFresh Broccoli Florets\nFresh Cauliflower Florets\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-11-30@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Breaded Chicken Drumstick
 DESCRIPTION:Full menu:\nBreaded Chicken Drumstick\nMini Whole Grain Biscuit\nSoy Butter & Jelly with Cheez-Its and String Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Carrots\nSeasoned Corn\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-01@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:Cheese Pizza Cruncher
 DESCRIPTION:Full menu:\nCheese Pizza Cruncher\nSoy Butter & Jelly with Cheez-Its and String Cheese\nCinnamon Applesauce\nCherry Craisins\nFresh Broccoli Florets\nFresh Cauliflower Florets\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-02@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Toasted Cheese Sandwich
 DESCRIPTION:Full menu:\nToasted Cheese Sandwich\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-03@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Blueberry Bash Waffles
 DESCRIPTION:Full menu:\nBlueberry Bash Waffles\nChicken Sausage Patty\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Carrots\nFresh Celery Sticks\nMilk\nKetchup\nLight Ranch Dressing\nBreakfast Syrup
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-04@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nShredded Cheddar Cheese\nTortilla Chips\nSoy Butter & Jelly with Cheez-Its and String Cheese\nFresh Orange Wedges\nChilled Peaches\nTossed Salad\nSliced Cucumbers\nVegetarian Refried Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-07@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:Three Cheese Cavatappi
 DESCRIPTION:Full menu:\nThree Cheese Cavatappi\nWhole Grain Garlic Texas Toast\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nSliced Fresh Apples\nPineapple Tidbits\nFresh Carrots\nSeasoned Corn\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-08@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261208
 SUMMARY:Personal Galaxy Cheese Pizza
 DESCRIPTION:Full menu:\nPersonal Galaxy Cheese Pizza\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nCinnamon Applesauce\nRaisins\nFresh Broccoli Florets\nFresh Cauliflower Florets\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-09@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:Tempura Style Chicken Nuggets
 DESCRIPTION:Full menu:\nTempura Style Chicken Nuggets\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-10@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Whole Grain French Toast Sticks
 DESCRIPTION:Full menu:\nWhole Grain French Toast Sticks\nChicken Sausage Patty\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Carrots\nFresh Celery Sticks\nMilk\nKetchup\nLight Ranch Dressing\nBreakfast Syrup
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-11@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Classic Chicken Sandwich
 DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nMuffin Fun Lunch- Blueberry Muffin with Yogurt\, String Cheese and Goldfish\nFresh Orange Wedges\nChilled Peaches\nTossed Salad\nSliced Cucumbers\nBaked Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-14@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261214
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nSliced Fresh Apples\nPineapple Tidbits\nFresh Carrots\nSeasoned Corn\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-15@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:Mini Confetti Pancakes
 DESCRIPTION:Full menu:\nMini Confetti Pancakes\nChicken Sausage Patty\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nCinnamon Applesauce\nCherry Craisins\nFresh Broccoli Florets\nFresh Cauliflower Florets\nMilk\nKetchup\nLight Ranch Dressing\nBreakfast Syrup
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-16@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Banana\nChilled Diced Pears\nFresh Cherry Tomatoes\nSliced Cucumbers\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-17@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:Classic Cheeseburger in Bun
 DESCRIPTION:Full menu:\nClassic Cheeseburger in Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Whole Apple Gala\nMandarin Oranges\nFresh Carrots\nFresh Celery Sticks\nMilk\nKetchup\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:st-michael-2026-12-18@grandledge
-DTSTAMP:20261123T003211Z
+DTSTAMP:20261124T043101Z
 DTSTART;VALUE=DATE:20261218
 SUMMARY:Beef Hot Dog on Whole Wheat Bun
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat Bun\nBuild Your Own Pizza- Flatbread\, Marinara & Mozzarella Cheese\nFresh Orange Wedges\nChilled Peaches\nTossed Salad\nSliced Cucumbers\nBaked Beans\nMilk\nKetchup\nLight Ranch Dressing\nBarbecue Sauce\nMustard Packet\nMayonnaise
